@@ -81,9 +81,9 @@ ol li
   height: 202px;}
 
 #logo
-{ width: 898px;
+{ width: 100%;
   position: relative;
-  height: 148px;
+  height: 10%;
   border-bottom: 2px solid #FFF;}
 
 #logo #logo_text 
