@@ -21,7 +21,8 @@ h1, h2, h3, h4, h5, h6
 { font: normal 175% 'century gothic', arial, sans-serif;
   color: #000;
   margin: 0 0 15px 0;
-  padding: 15px 0 5px 0;}
+  padding: 0 0 0 0;
+}
 
 h2
 { font: normal 175% 'century gothic', arial, sans-serif;}
@@ -29,19 +30,23 @@ h2
 h4, h5, h6
 { margin: 0;
   padding: 0 0 5px 0;
-  font: normal 120% arial, sans-serif;}
+  font: normal 120% arial, sans-serif;
+}
 
 h5, h6
 { font: italic 95% arial, sans-serif;
-  padding: 0 0 15px 0;}
+  padding: 0 0 15px 0;
+}
 
 a, a:hover
 { outline: none;
   text-decoration: underline;
-  color: #000;}
+  color: #000;
+}
 
 a:hover
-{ text-decoration: none;}
+{ text-decoration: none;
+}
 
 .left
 { float: left;
@@ -113,13 +118,15 @@ ol li
 { font: normal 300% 'century gothic', arial, sans-serif;
   border-bottom: 0;
   text-transform: none;
-  margin: 0;}
+  margin: 0;
+}
 
 #logo_text h1, #logo_text h1 a, #logo_text h1 a:hover 
 { padding: 22px 0 0 0;
   color: #FFF;
   letter-spacing: -1px;
-  text-decoration: none;}
+  text-decoration: none;
+}
 
 #logo_text h1 a .logo_colour
 { color: #FFF;}
